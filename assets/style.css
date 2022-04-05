@@ -49,6 +49,7 @@ body {
   
   .present {
     background-color: #ff6961;
+    border-radius: 15px;
     color: white;
   }
   
