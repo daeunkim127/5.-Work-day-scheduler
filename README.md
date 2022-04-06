@@ -12,5 +12,5 @@
 ## Example of Local Storage
 ![screenshot-localStorage](./assets/images/localStorage.png)
 
-Page link: https://daeunkim127.github.io/5.-Work-day-scheduler/
-Github repository link: https://github.com/daeunkim127/5.-Work-day-scheduler.git
+## Page link: https://daeunkim127.github.io/5.-Work-day-scheduler/
+## Github repository link: https://github.com/daeunkim127/5.-Work-day-scheduler.git
