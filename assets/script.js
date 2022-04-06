@@ -28,7 +28,7 @@ $('.time-div').each(function(){
   $('#09 .time-block').val(localStorage.getItem('09'));
   $('#10 .time-block').val(localStorage.getItem('10'));
   $('#11 .time-block').val(localStorage.getItem('11'));
-  $('#12 .time-block)').val(localStorage.getItem('12'));
+  $('#12 .time-block').val(localStorage.getItem('12'));
   $('#13 .time-block').val(localStorage.getItem('13'));
   $('#14 .time-block').val(localStorage.getItem('14'));
   $('#15 .time-block').val(localStorage.getItem('15'));
